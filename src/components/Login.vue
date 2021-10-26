@@ -64,6 +64,7 @@ export default {
 .login{
     
     min-height: 100vh;
+    min-width:100vw;
     background-color: #F1F1F1;
     display: flex;
     justify-content: center;
